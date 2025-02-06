@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Character1
+  m_Controller: {fileID: 9100000, guid: 718edbe65d0312f4e81e4c2d17e34d16, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 991dc59c3b92f424fb222c00fe5cdcb6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 991dc59c3b92f424fb222c00fe5cdcb6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 35b5cc6bac5c09049a58d2536b06cc25, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 35b5cc6bac5c09049a58d2536b06cc25, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ab243d438e824964baedd61cee8c5992, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ab243d438e824964baedd61cee8c5992, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2369833f8e269f74a95cfd21022ef237, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2369833f8e269f74a95cfd21022ef237, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 326864f41b0b77144b0f79e15c27379c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 326864f41b0b77144b0f79e15c27379c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 40ed4f83d2f8fef4ca67d99af7ff69d2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 40ed4f83d2f8fef4ca67d99af7ff69d2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9e8ae0715807cfa4ab914fa919c5c78a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9e8ae0715807cfa4ab914fa919c5c78a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e522e3468d655734f82e7b59c32e1b93, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e522e3468d655734f82e7b59c32e1b93, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: efb74a90205a7254face24b7e8163d5c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: efb74a90205a7254face24b7e8163d5c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 49c0d002a9327c2469b4ef87b531753b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 49c0d002a9327c2469b4ef87b531753b, type: 2}
